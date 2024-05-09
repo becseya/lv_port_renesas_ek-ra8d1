@@ -20,7 +20,7 @@
 
 
 #define RGB_565_BLACK  (0)
-#define RGB_565_REG    (0x1F << 11)
+#define RGB_565_RED    (0x1F << 11)
 #define RGB_565_GREEN  (0x3F << 5)
 #define RGB_565_BLUE   (0x1F << 0)
 
